@@ -301,7 +301,7 @@ h3 {
 
 .fbox:hover {
     transform: scale(1.1);
-    transition-duration: 0.4s;
+    transition-duration: 2s;
 }
 
 /* #######################footer################# */
